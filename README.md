@@ -1,6 +1,6 @@
 This is a project about simple recipe for beverage item known as Punjabi Sweet Lassi.
 
-Skills demonstrated:
+#Skills demonstrated:
 
 *HTML basic knowledge
 
