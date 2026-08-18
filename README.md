@@ -1,6 +1,12 @@
-This is a project about simple recipe for beverage item known as Punjabi Sweet Lassi.
+# ODIN RECIPE
 
-#Skills demonstrated:
+Click here to open the site: 
+
+This is an ongoing project for various food item displayed using html,css and js. As the curriculum continue the project will see various update along the way. 
+
+
+
+## Skills demonstrated:
 
 *HTML basic knowledge
 
@@ -10,5 +16,5 @@ This is a project about simple recipe for beverage item known as Punjabi Sweet L
 
 *Use of listing and nesting lists item inside ul and ol
 
-*Use of a tag to link index.html and other recipe pages.
+*Use of anchor tag to link index.html and other recipe pages.
 
